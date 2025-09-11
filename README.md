@@ -3,8 +3,8 @@
 <h3 align="center">Front-End Developer </h3>
 
 <p align="center">
-  🚀 Computer Science student at Cairo University – passionate about creating modern, responsive web apps using React, Next.js, Vue, and Tailwind CSS.  
-  🌱 Always exploring new technologies, mentoring others, and striving to deliver exceptional user experiences.  
+   Computer Science student at Cairo University – passionate about creating modern, responsive web apps using React, Next.js, Vue, and Tailwind CSS.  
+   Always exploring new technologies, mentoring others, and striving to deliver exceptional user experiences.  
 </p>
 
 <p align="center">
