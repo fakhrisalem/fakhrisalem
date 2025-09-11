@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=fakhrisalem&label=Profile%20views&color=0e75b6&style=flat" alt="fakhrisalem" />
 </p>
 
-
+---
 
 ### 🛠️ Technical Skills  
 
@@ -30,7 +30,7 @@
 </p>
 
 ---
----
+
 
 ### 🔗 Connect with Me
 <p align="left">
