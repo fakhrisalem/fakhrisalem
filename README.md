@@ -2,10 +2,10 @@
 <h1 align="center"> <b> Hi 👋, I'm Mona  Salem</b></h1>
 
 
-<p align="center">
+<p align="center" ><b>
    Computer Science student at <mark >Cairo University</mark> – passionate about creating modern, responsive web apps using React, Next.js, Vue, and Tailwind CSS.  
    Always exploring new technologies, mentoring others, and<i> striving to deliver exceptional user experiences</i>.  
-</p>
+</b></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fakhrisalem&label=Profile%20views&color=0e75b6&style=flat" alt="fakhrisalem" />
