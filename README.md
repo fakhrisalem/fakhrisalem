@@ -13,11 +13,11 @@
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fakhrisalem/fakhrisalem/main/about.gif" 
-       alt="animated" 
-       width="500" 
-       style="border: 4px solid #ADD8E6; border-radius: 15px;" />
+  <kbd>
+    <img src="https://raw.githubusercontent.com/fakhrisalem/fakhrisalem/main/about.gif" width="500" height="300>
+  </kbd>
 </p>
+
 
 
 
