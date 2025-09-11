@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Mona Fakhri Salem</h1>
-<h3 align="center">Front-End Developer | Mentor | Lifelong Learner</h3>
+<h1 align="center">Hi 👋, I'm Mona  Salem</h1>
+<h3 align="center">Front-End Developer </h3>
 
 <p align="center">
   🚀 Computer Science student at Cairo University – passionate about creating modern, responsive web apps using React, Next.js, Vue, and Tailwind CSS.  
@@ -15,6 +15,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/fakhrisalem/fakhrisalem/main/about.gif" alt="animated" width="500"/>
 </p>
+
 ---
 
 ### 🛠️ Technical Skills  
