@@ -16,7 +16,7 @@
   <img src="https://raw.githubusercontent.com/fakhrisalem/fakhrisalem/main/about.gif" 
        alt="animated" 
        width="500" 
-       style="border: 3px solid black; border-radius: 10px;"/>
+       style="border: 3px solid black; border-radius: 90px;"/>
 </p>
 
 
