@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Hi 👋, I'm Mona Fakhri Salem</h1>
 <h3 align="center">Front-End Developer | Mentor | Lifelong Learner</h3>
 
@@ -29,15 +28,22 @@
 
 ---
 
-### 🛠️ Technical Skills
-**Languages:**  
-- Python | C++ | R | TypeScript | JavaScript (ES6+) | Prolog  
+### 🛠️ Technical Skills  
 
-**Front-End Development:**  
-- React.js | Next.js | Vue.js | Tailwind CSS | Sass | Bootstrap | HTML5 | CSS3  
+#### 🚀 Languages  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,r,ts,js,prolog" />
+</p>
 
-**Other Skills:**  
-- Git & GitHub | Design Patterns | Agile Methodology | Problem Solving  
+#### 🎨 Front-End Development  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,next,vue,tailwind,sass,bootstrap,html,css" />
+</p>
+
+#### ⚡ Other Skills  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,linux" />
+</p>
 
 ---
 
@@ -46,18 +52,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=fakhrisalem&show_icons=true&theme=tokyonight" alt="fakhrisalem" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakhrisalem&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-### 🚀 Projects
-- 🌐 [Restaurant Website](https://github.com/fakhrisalem/Restaurant)  
-  Developed a responsive website for a Cairo restaurant using **HTML, CSS, JavaScript**.  
-
-- 🛍️ [Flower & Plant E-Commerce](https://github.com/fakhrisalem/Flower-Ecommerce)  
-  Built with **React.js**, designed a visually appealing and intuitive UI for online shopping.  
-
-- 🎨 [Children’s Products Website](https://github.com/fakhrisalem/Childrens-Products)  
-  Designed and developed a product showcase site using **HTML, CSS, Bootstrap, JS**.  
 
 ---
 
