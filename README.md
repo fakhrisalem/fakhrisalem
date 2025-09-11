@@ -14,7 +14,7 @@
 ---
 <p align="center">
   <kbd>
-    <img src="https://raw.githubusercontent.com/fakhrisalem/fakhrisalem/main/about.gif" width="500" height="500>
+    <img src="https://raw.githubusercontent.com/fakhrisalem/fakhrisalem/main/about.gif" width="500" >
   </kbd>
 </p>
 
