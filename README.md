@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Mona  Salem</h1>
+<h1 align="center"> <b> Hi 👋, I'm Mona  Salem</b></h1>
 
 
 <p align="center">
