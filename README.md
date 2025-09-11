@@ -1,20 +1,14 @@
-
 <h1 align="center">Hi 👋, I'm Mona Fakhri Salem</h1>
-<h3 align="center">Front-End Developer </h3>
+<h3 align="center">Front-End Developer | Mentor | Lifelong Learner</h3>
+
+<p align="center">
+  🚀 Computer Science student at Cairo University – passionate about creating modern, responsive web apps using React, Next.js, Vue, and Tailwind CSS.  
+  🌱 Always exploring new technologies, mentoring others, and striving to deliver exceptional user experiences.  
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fakhrisalem&label=Profile%20views&color=0e75b6&style=flat" alt="fakhrisalem" />
 </p>
-
----
-
-### 🌟 About Me
-- 🎓 Computer Science student at **Cairo University** (Faculty of Computer Science and AI).  
-- 💻 Passionate about **Front-End Development** (React.js, Next.js, Vue.js, Tailwind CSS, Sass).  
-- 📚 Currently a trainee at **Information Technology Institute (ITI)** in **PHP & Front-End Development**.  
-- 🤝 Mentor at **Instant Software Solutions** guiding students in **Full-Stack Development**.  
-- 🌱 Interested in **UI/UX design, responsive design, and building interactive web apps**.  
-- ⚡ Fun fact: I enjoy teaching programming and helping others grow in tech.  
 
 ---
 
