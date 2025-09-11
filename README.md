@@ -18,11 +18,6 @@
   </kbd>
 </p>
 
-
-
-
-
-
 ---
 
 ### 🛠️ Technical Skills  
@@ -43,13 +38,33 @@
 </p>
 
 ---
-### 🔗 Connect with Me
+---
+### 🔗 Connect with Me  
+
 <p align="center">
-<a href="https://www.linkedin.com/in/mona-fakhri-998191262" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href="mailto:monafakhri50@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
-<a href="https://fakhrisalem.github.io/Portfolio-Web/" target="blank"><img src="https://img.icons8.com/color/48/000000/domain.png"/></a>
-<a href="https://github.com/fakhrisalem" target="blank"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/></a>
+  <a href="https://fakhrisalem.github.io/Portfolio-Web/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/domain.png"/> Portfolio Website
+  </a>
 </p>
+
+<p align="center">
+  <a href="mailto:monafakhri50@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png"/> monafakhri50@gmail.com
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mona-fakhri-998191262" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> LinkedIn Profile
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/fakhrisalem" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/> GitHub Profile
+  </a>
+</p>
+
 
 ---
 
