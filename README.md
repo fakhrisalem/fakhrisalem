@@ -3,7 +3,7 @@
 
 
 <p align="center" ><b>
-   Computer Science student at <b>Cairo University</b> – passionate about creating modern, responsive web apps using<mark> React, Next.js, Vue, and Tailwind CSS</mark>.  
+   Computer Science student at<strong> <b>Cairo University</b></strong> – passionate about creating modern, responsive web apps using<mark> React, Next.js, Vue, and Tailwind CSS</mark>.  
    Always exploring new technologies, mentoring others, and striving to deliver exceptional user experiences.  
 </b></p>
 
