@@ -38,32 +38,39 @@
 </p>
 
 ---
----
+
 ### 🔗 Connect with Me  
 
 <p align="center">
+
   <a href="https://fakhrisalem.github.io/Portfolio-Web/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/domain.png"/> Portfolio Website
+    <img src="https://img.icons8.com/color/48/000000/domain.png"/><br>
+    <b>Portfolio Website</b>
   </a>
-</p>
-
-<p align="center">
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a href="mailto:monafakhri50@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png"/> monafakhri50@gmail.com
+    <img src="https://img.icons8.com/color/48/000000/gmail.png"/><br>
+    <b>Email</b>
   </a>
-</p>
-
-<p align="center">
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a href="https://www.linkedin.com/in/mona-fakhri-998191262" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> LinkedIn Profile
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/><br>
+    <b>LinkedIn</b>
   </a>
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://github.com/fakhrisalem" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/><br>
+    <b>GitHub</b>
+  </a>
+
 </p>
 
-<p align="center">
-  <a href="https://github.com/fakhrisalem" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/> GitHub Profile
-  </a>
-</p>
 
 
 ---
