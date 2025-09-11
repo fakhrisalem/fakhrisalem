@@ -12,6 +12,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fakhrisalem/fakhrisalem/main/about.gif" alt="animated" width="500"/>
+</p>
 ---
 
 ### 🛠️ Technical Skills  
