@@ -1,5 +1,6 @@
+
 <h1 align="center">Hi 👋, I'm Mona Fakhri Salem</h1>
-<h3 align="center">Front-End Developer </h3>
+<h3 align="center">Front-End Developer | Mentor | Lifelong Learner</h3>
 
 <p align="center">
   🚀 Computer Science student at Cairo University – passionate about creating modern, responsive web apps using React, Next.js, Vue, and Tailwind CSS.  
@@ -8,6 +9,22 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fakhrisalem&label=Profile%20views&color=0e75b6&style=flat" alt="fakhrisalem" />
+</p>
+
+---
+
+### 🔗 Connect with Me
+<p align="center">
+<a href="https://www.linkedin.com/in/mona-fakhri-998191262" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="mailto:monafakhri50@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
+<a href="https://fakhrisalem.github.io/Portfolio-Web/" target="blank"><img src="https://img.icons8.com/color/48/000000/domain.png"/></a>
+<a href="https://github.com/fakhrisalem" target="blank"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fakhrisalem/fakhrisalem/main/about.gif" alt="animated" width="500"/>
 </p>
 
 ---
@@ -31,16 +48,6 @@
 
 ---
 
-
-### 🔗 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/mona-fakhri-998191262" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href="mailto:monafakhri50@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
-<a href="https://fakhrisalem.github.io/Portfolio-Web/" target="blank"><img src="https://img.icons8.com/color/48/000000/domain.png"/></a>
-<a href="https://github.com/fakhrisalem" target="blank"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/></a>
-</p>
-
----
 ### 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=fakhrisalem&show_icons=true&theme=tokyonight" alt="fakhrisalem" />
@@ -63,3 +70,5 @@
 ---
 
 ✨ *“Code is like art – the more you practice, the better you express.”*  
+
+
