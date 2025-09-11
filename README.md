@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mona Fakhri Salem</h1>
-<h3 align="center">Front-End Developer | Mentor | Lifelong Learner</h3>
+<h3 align="center">Front-End Developer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fakhrisalem&label=Profile%20views&color=0e75b6&style=flat" alt="fakhrisalem" />
