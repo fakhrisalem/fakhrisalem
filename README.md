@@ -12,21 +12,6 @@
 </p>
 
 ---
-
-### 🔗 Connect with Me
-<p align="center">
-<a href="https://www.linkedin.com/in/mona-fakhri-998191262" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href="mailto:monafakhri50@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
-<a href="https://fakhrisalem.github.io/Portfolio-Web/" target="blank"><img src="https://img.icons8.com/color/48/000000/domain.png"/></a>
-<a href="https://github.com/fakhrisalem" target="blank"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/fakhrisalem/fakhrisalem/main/about.gif" alt="animated" width="500"/>
-</p>
-
 ---
 
 ### 🛠️ Technical Skills  
@@ -47,6 +32,21 @@
 </p>
 
 ---
+### 🔗 Connect with Me
+<p align="center">
+<a href="https://www.linkedin.com/in/mona-fakhri-998191262" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="mailto:monafakhri50@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
+<a href="https://fakhrisalem.github.io/Portfolio-Web/" target="blank"><img src="https://img.icons8.com/color/48/000000/domain.png"/></a>
+<a href="https://github.com/fakhrisalem" target="blank"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fakhrisalem/fakhrisalem/main/about.gif" alt="animated" width="500"/>
+</p>
+
+
 
 ### 📊 GitHub Stats
 <p align="center">
