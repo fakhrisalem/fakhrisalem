@@ -60,15 +60,7 @@
   Explore my projects on <a href="https://github.com/fakhrisalem" target="_blank"><b>GitHub</b></a>
 </p>
 
-
-
-
-
 ---
-
-
-
-
 
 ### 📊 GitHub Stats
 <p align="center">
