@@ -64,9 +64,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fakhrisalem&show_icons=true&theme=tokyonight" alt="fakhrisalem" />
+<img src="https://github-readme-stats.vercel.app/api?username=fakhrisalem&show_icons=true&theme=tokyonight&cache_seconds=1800&v=1" alt="fakhrisalem" />
   <br><br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakhrisalem&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakhrisalem&layout=compact&theme=tokyonight&cache_seconds=1800&v=1" />
 </p>
 
 ---
