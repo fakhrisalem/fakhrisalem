@@ -40,24 +40,19 @@
 ---
 ### 🔗 Connect with Me  
 
-<p align="center">
-  <img src="https://img.icons8.com/color/30/000000/domain.png"/>
-  Check out my <a href="https://fakhrisalem.github.io/Portfolio-Web/" target="_blank"><b>Portfolio Website</b></a>
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/color/30/000000/gmail.png"/>
-  Get in touch via email: <a href="mailto:monafakhri50@gmail.com"><b>monafakhri50@gmail.com</b></a>
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/color/30/000000/linkedin.png"/>
-  Connect with me on <a href="https://www.linkedin.com/in/mona-fakhri-998191262" target="_blank"><b>LinkedIn</b></a>
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/>
-  Explore my projects on <a href="https://github.com/fakhrisalem" target="_blank"><b>GitHub</b></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://YOUR_PORTFOLIO_LINK.com" target="_blank">
+    <img src="https://img.shields.io/badge/My_Portfolio-00BFFF?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
 ---
