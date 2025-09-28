@@ -86,4 +86,9 @@
 
 ✨ *“Code is like art – the more you practice, the better you express.”*  
 
+---
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=fakhrisalem&show_icons=true&theme=radical&hide_border=true&rank_icon=github)
+
+
+
 
