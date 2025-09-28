@@ -57,7 +57,7 @@
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=fakhrisalem&show_icons=true&theme=radical&hide_border=true&rank_icon=github)
 
   <br><br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakhrisalem&layout=compact&theme=tokyonight&cache_seconds=1800&v=1" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakhrisalem&layout=compact&theme=radical&hide_border=true)
 </p>
 
 ---
