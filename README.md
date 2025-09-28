@@ -40,20 +40,17 @@
 ---
 ### 🔗 Connect with Me  
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://YOUR_PORTFOLIO_LINK.com" target="_blank">
-    <img src="https://img.shields.io/badge/My_Portfolio-00BFFF?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+<!-- Social links for GitHub profile README -->
+| <img src="https://cdn.simpleicons.org/github/24" width="24"/> GitHub | <img src="https://cdn.simpleicons.org/twitter/24" width="24"/> Twitter |
+|---|---|
+| [github.com/fakhrisalem](https://github.com/fakhrisalem) | [twitter.com/fakhrisalem](https://twitter.com/fakhrisalem) |
+| <img src="https://cdn.simpleicons.org/dev-dot-to/24" width="24"/> dev.to | <img src="https://cdn.simpleicons.org/codepen/24" width="24"/> CodePen |
+| [dev.to/@fakhrisalem](https://dev.to/@fakhrisalem) | [codepen.io/fakhrisalem](https://codepen.io/fakhrisalem) |
+| <img src="https://cdn.simpleicons.org/linkedin/24" width="24"/> LinkedIn | <img src="https://cdn.simpleicons.org/instagram/24" width="24"/> Instagram |
+| [linkedin.com/in/fakhrisalem](https://linkedin.com/in/fakhrisalem) | [instagram.com/fakhrisalem](https://instagram.com/fakhrisalem) |
+| <img src="https://cdn.simpleicons.org/stackoverflow/24" width="24"/> StackOverflow | <img src="https://cdn.simpleicons.org/kaggle/24" width="24"/> Kaggle |
+| [stackoverflow.com/users/fakhrisalem](https://stackoverflow.com/users/fakhrisalem) | [kaggle.com/fakhrisalem](https://kaggle.com/fakhrisalem) |
+
 
 ---
 
