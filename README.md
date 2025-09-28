@@ -38,17 +38,16 @@
 </p>
 
 ---
-### 🔗 Connect with Me  
+## 🔗 Connect with Me
 
-<!-- Social links for GitHub profile README -->
-| <img src="https://cdn.simpleicons.org/github/24" width="24"/> GitHub | <img src="https://cdn.simpleicons.org/twitter/24" width="24"/> Twitter |
+| <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="24" height="24"/> GitHub | <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" width="24" height="24"/> Twitter |
 |---|---|
 | [github.com/fakhrisalem](https://github.com/fakhrisalem) | [twitter.com/fakhrisalem](https://twitter.com/fakhrisalem) |
-| <img src="https://cdn.simpleicons.org/dev-dot-to/24" width="24"/> dev.to | <img src="https://cdn.simpleicons.org/codepen/24" width="24"/> CodePen |
+| <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dev-dot-to.svg" width="24" height="24"/> dev.to | <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codepen.svg" width="24" height="24"/> CodePen |
 | [dev.to/@fakhrisalem](https://dev.to/@fakhrisalem) | [codepen.io/fakhrisalem](https://codepen.io/fakhrisalem) |
-| <img src="https://cdn.simpleicons.org/linkedin/24" width="24"/> LinkedIn | <img src="https://cdn.simpleicons.org/instagram/24" width="24"/> Instagram |
+| <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="24" height="24"/> LinkedIn | <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="24" height="24"/> Instagram |
 | [linkedin.com/in/fakhrisalem](https://linkedin.com/in/fakhrisalem) | [instagram.com/fakhrisalem](https://instagram.com/fakhrisalem) |
-| <img src="https://cdn.simpleicons.org/stackoverflow/24" width="24"/> StackOverflow | <img src="https://cdn.simpleicons.org/kaggle/24" width="24"/> Kaggle |
+| <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/stackoverflow.svg" width="24" height="24"/> StackOverflow | <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="24" height="24"/> Kaggle |
 | [stackoverflow.com/users/fakhrisalem](https://stackoverflow.com/users/fakhrisalem) | [kaggle.com/fakhrisalem](https://kaggle.com/fakhrisalem) |
 
 
