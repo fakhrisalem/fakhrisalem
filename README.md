@@ -43,7 +43,7 @@
 | <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="24" height="24"/> GitHub | <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" width="24" height="24"/> Twitter |
 |---|---|
 | [github.com/fakhrisalem](https://github.com/fakhrisalem) | [twitter.com/fakhrisalem](https://twitter.com/fakhrisalem) |
-| <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dev-dot-to.svg" width="24" height="24"/> dev.to | <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codepen.svg" width="24" height="24"/> CodePen |
+| <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dev-dot-to.svg" width="24" height="24"/> dev.to | 
 | [dev.to/@fakhrisalem](https://dev.to/@fakhrisalem) | 
 | <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="24" height="24"/> LinkedIn |
 | [linkedin.com/in/fakhrisalem](https://linkedin.com/in/fakhrisalem) |
