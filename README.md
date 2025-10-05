@@ -44,9 +44,9 @@
 |---|---|
 | [github.com/fakhrisalem](https://github.com/fakhrisalem) | [twitter.com/fakhrisalem](https://twitter.com/fakhrisalem) |
 | <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dev-dot-to.svg" width="24" height="24"/> dev.to | 
-| [dev.to/@fakhrisalem](https://dev.to/@fakhrisalem) | 
+| [dev.to/@fakhrisalem](https://dev.to/mona_fakhri_98b07b8a1fd66) | 
 | <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="24" height="24"/> LinkedIn |
-| [linkedin.com/in/fakhrisalem](https://linkedin.com/in/fakhrisalem) |
+| [linkedin.com/in/fakhrisalem](www.linkedin.com/in/mona-salem-998191262) |
 
 
 
